@@ -1,0 +1,6 @@
+{
+  "name": "NES to MS-DOS Mode 13h EXE Converter & Studio",
+  "description": "Convert and package NES ROMs into 16-bit MS-DOS MZ Executables with 8-bit 320x200 VGA Mode 13h blitter, header inspector, and live DOSBox CRT runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
